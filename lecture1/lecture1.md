@@ -2,9 +2,13 @@
 
 ## Computer Architecture
 
+## Install VirtualBox and Ubunutu
+
 ## Client Server Architecture
 
 ## Binary, Hexa and Logic Gates
+
+## Networking & Sniffing
 
 ##  Homework:
 

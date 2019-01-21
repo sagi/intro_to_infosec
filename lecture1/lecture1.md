@@ -42,12 +42,12 @@ one person that does "cyber security" and follow him.
 2. Begin practice with https://www.typingclub.com. Reach at least 50 WPM.
 
 3. Binary / Hexa Questions:
-  - Translate from Decimal to Binary: 123, 255, 41.
-  - Translate from Binary to Decimal: 0111010, 11110101, 11001111.
-  - Translate from Hexa to Decimal: 1C, F2, E3, 3E.
-  - Translate from Decimal to Hexa: 16, 160, 123, 255.
-  - Translate from Hexa to Binary: FF, 23, 67, 8E.
-  - Translate from Binary to Hexa: 11111101, 11001110, 111, 1010.
+    - Translate from Decimal to Binary: 123, 255, 41.
+    - Translate from Binary to Decimal: 0111010, 11110101, 11001111.
+    - Translate from Hexa to Decimal: 1C, F2, E3, 3E.
+    - Translate from Decimal to Hexa: 16, 160, 123, 255.
+    - Translate from Hexa to Binary: FF, 23, 67, 8E.
+    - Translate from Binary to Hexa: 11111101, 11001110, 111, 1010.
 
 4. Research and public speaking; find at least one security-related news article
 and prepare a 2-3 minute talk about it.

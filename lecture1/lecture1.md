@@ -18,9 +18,9 @@ We've seen how Wireshark parses binary data with hexdump and protocol data.
 
 ### Computer Architecture
 
-We explained the different components of a computer: CPU, GPU, RAM, Harddisk
-(HD, SSD, NVMe), Motherboard, Network Adapter, Operating System. ISA -
-Instruction Set Architecture,
+We explained the different components of a computer: CPU (AMD, Intel Core /
+Pentium / Celeron, Arm), GPU, RAM, Harddisk (HD, SSD, NVMe), Motherboard,
+Network Adapter, Operating System. ISA - Instruction Set Architecture.
 
 ### Virtualization
 

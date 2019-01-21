@@ -3,13 +3,14 @@
 ## Summary
 
 ### Binary, Decimal and Hexadecimal
+- We learned what's a Bit, Nibble and Byte.
 - We learned how to translate between:
-  - Decimal to Binary
-  - Binary to Decimal
-  - Hexa to Decimal
-  - Decimal to Hexa
-  - Hexa to Binary
-  - Binary to Hexa
+    - Decimal to Binary
+    - Binary to Decimal
+    - Hexa to Decimal
+    - Decimal to Hexa
+    - Hexa to Binary
+    - Binary to Hexa
 
 ### Networking & Sniffing
 

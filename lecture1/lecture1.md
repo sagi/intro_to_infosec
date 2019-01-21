@@ -29,7 +29,7 @@ We've had an overview of virtualization. VMWare / VirtualBox and Docker.
 
 Parsing, Cloud Computing, GCP - Google Cloud Platform, AWS - Amazon Web Services,
 RCE - Remote Code Execution, OS - Operating System, Packet, Hexdump, Network
-Protocol, Simulate. (Apologies, the cleaner cleaned the board before I could
+Protocol, Simulate, Bit, Byte, Nibble. (Apologies, the cleaner cleaned the board before I could
 take a picture of the terms. Don't worry - we'll probably use them again :) ).
 
 ##  Homework:

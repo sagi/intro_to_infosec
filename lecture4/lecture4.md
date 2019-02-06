@@ -1,4 +1,4 @@
-# 03/02/2018 - 3rd Lecture
+# 03/02/2018 - 4th Lecture
 
 ## IP Routing
 
@@ -55,7 +55,6 @@ security-related news article and prepare a 2-3 minute talk about it.
 
 6. Find relevant job descriptions (e.g. SOC Analyst). Put them in Google Docs.
 Highlight the different technologies that are required.
-
 
 7. Use `nslookup` and query different domains for A, AAAA, CNAME, TXT, MX, NS
 DNS records. Use Wireshark and save a ".pcap" file with filtered DNS packets

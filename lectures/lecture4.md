@@ -1,4 +1,4 @@
-# 03/02/2018 - 4th Lecture
+# 03/02/2019 - 4th Lecture
 
 ## IP Routing
 
@@ -59,3 +59,7 @@ Highlight the different technologies that are required.
 7. Use `nslookup` and query different domains for A, AAAA, CNAME, TXT, MX, NS
 DNS records. Use Wireshark and save a ".pcap" file with filtered DNS packets
 that show queries and answers from servers.
+
+
+<hr>
+Copyright 2019 Sagi Kedmi

@@ -52,3 +52,8 @@ one person that does "cyber security" and follow him.
 
 4. Research and public speaking; find at least one security-related news article
 and prepare a 2-3 minute talk about it.
+
+
+
+<hr>
+Copyright 2019 Sagi Kedmi

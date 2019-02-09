@@ -114,3 +114,7 @@ Highlight the different technologies that are required.
 http://127.0.0.1:1234/. Capture everything with Wireshark and save a ".pcap"
 file. Make a screenshot of the HTTP request in `netcat` and show me next
 lesson! :)
+
+
+<hr>
+Copyright 2019 Sagi Kedmi

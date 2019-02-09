@@ -1,4 +1,4 @@
-# 29/01/2018 - 3rd Lecture
+# 30/01/2019 - 3rd Lecture
 
 ## Subnetting
 
@@ -57,3 +57,7 @@ have the SRC MAC Desitnatino of the Default Gateway.
 
 8. Find relevant job descriptions (e.g. SOC Analyst). Put them in Google Docs.
 Highlight the different technologies that are required.
+
+
+<hr>
+Copyright 2019 Sagi Kedmi

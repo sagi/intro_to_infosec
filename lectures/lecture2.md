@@ -60,3 +60,7 @@ and prepare a 2-3 minute talk about it.
 8. Challenge: How many subnets and hosts per subnet can you get from the network 192.168.78.0/26 ?
 
 9. Tinker with your Home router and devices. Find the MAC address of your PC. Install Wireshark - and sniff the world.
+
+
+<hr>
+Copyright 2019 Sagi Kedmi

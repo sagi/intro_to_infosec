@@ -24,7 +24,7 @@ $ cat baba.html | hexdump
 
 Would show us the hexdump of the file `baba.html`.
 
-We also learned about CRLF (Carriage Return / Line Feed) and thier `ascii`
+We also learned about CRLF (Carriage Return / Line Feed) and their `ascii`
 representations.
 
 We noted that Linux uses only LF (0x0a) for newines while Windows uses
@@ -91,9 +91,7 @@ We understood the difference between Monoliths and Microservices.
 
 ## Terms
 
-RTT - Round Trip Time, "Ledabeg" - to debug, Infoleak - information leakage,
-Online presence, Port, "Lefarser" - to parse.
-
+Cryptojacking,  stdout, hexdump, Markdown.
 
 ## Homework
 

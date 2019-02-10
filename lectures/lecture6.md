@@ -80,6 +80,9 @@ consume the services of other companies.
 
 We also noted that many companies use internal APIs in the form of "Microservices".
 
+We also noted that APIs can be used to describe the interface between
+different components in an operating system.
+
 We understood the difference between Monoliths and Microservices.
 
 ## Linux Commands

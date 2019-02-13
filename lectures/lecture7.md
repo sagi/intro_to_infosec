@@ -1,4 +1,4 @@
-# 13/02/2018 - 6th Lecture
+# 13/02/2018 - 7th Lecture
 
 ## Github Pages
 

@@ -69,5 +69,11 @@ and vulnerabilities.
 6. STUDY FOR TEST - 3/3/2019! The materials are all Linux commands that we
 studied in class (including previous lectures; see previos lecture notes).
 
+7. If you haven't done so already - create a CV using these templates: [https://docs.google.com/templates](https://docs.google.com/templates).
+Bring it to me for review.
+
+8. Start sending your CV to companies! The Job search begins! :)
+
+
 <hr>
 Copyright 2019 Sagi Kedmi

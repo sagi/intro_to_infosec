@@ -66,5 +66,8 @@ Use `gedit` and write inside `hey.sh` a sequence of Linux commands
 5. Find at least 1 Webcam using `shodan` and use `nmap -A` to scan for open ports
 and vulnerabilities.
 
+6. STUDY FOR TEST - 3/3/2019! The materials are all Linux commands that we
+studied in class (including previous lectures; see previos lecture notes).
+
 <hr>
 Copyright 2019 Sagi Kedmi

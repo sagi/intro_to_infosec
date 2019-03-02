@@ -17,7 +17,7 @@ We explained why we need the Shebang on bash scripts - adding a "#!/usr/bin/bash
 or "#!/usr/bin/env bash" to the beginning of a bash script.
 
 
-We extracted the url of `flag_4x3_svg` from "https://ipfox.io/flags/4x3/us.svg" using
+We extracted the url of `flag_4x3_svg` from "https://api.ipfox.io/4.2.2.2?key=baba" using
 `cut` and `grep` and then piped it to `wget` to download.
 
 Congrats! Your first [Capture the Flag](https://en.wikipedia.org/wiki/Capture_the_flag#Computer_security).

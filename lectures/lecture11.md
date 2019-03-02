@@ -2,7 +2,7 @@
 
 ## Idle Scans and Decoys
 
-We talked in length about TCP Idle Scans - definitely one of the coolest attacks out there! It involves Zombies :).
+We talked in length about TCP Idle Scans - definitely one of the coolest scans out there! It involves Zombies :).
 
 Idle scans can be initiated with `nmap`'s `-sI` flag.
 
@@ -35,7 +35,7 @@ airplane messages. We also talked about using `Alfa` for Wi-Fi hacking.
 3. Prepare a 2-3 mins talk!
 
 4. STUDY FOR TEST - 3/3/2019! The materials are all Linux commands that we
-studied in class (including previous lectures; see previos lecture notes).
+studied in class (including previous lectures; see previous lecture notes).
 
 5. If you haven't done so already - create a CV using these templates: [https://docs.google.com/templates](https://docs.google.com/templates).
 Bring it to me for review.

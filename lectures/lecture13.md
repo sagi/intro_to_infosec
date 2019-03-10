@@ -94,7 +94,7 @@ Use the following ciphers: AES, RC4, DES, 3DES. Do a correctness test:
 plaintext = decrypt(encrypt(plaintext, k), k)
 ```
 
-7. Use Python to do a print random questions from: http://jservice.io/.
+7. Use Python to print random questions from: http://jservice.io/.
 
 <hr>
 Copyright 2019 Sagi Kedmi

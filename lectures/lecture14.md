@@ -36,7 +36,7 @@ and that now the best practice is KDFs (Key Derivation Functions) such as bcrypt
 
 ## Python Scripting
 
-We explained rigorously how to solve the homework.
+We rigorously explained how to solve the Python homework.
 
 ## Homework
 1. Watch Mr. Robot.

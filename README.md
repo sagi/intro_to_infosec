@@ -20,6 +20,8 @@
 | 10/03/2019 | [`Lecture 14`](https://github.com/sagi/intro_to_infosec/blob/master/lectures/lecture14.md) |
 | 13/03/2019 | [`Lecture 15`](https://github.com/sagi/intro_to_infosec/blob/master/lectures/lecture15.md) |
 | 17/03/2019 | [`Lecture 16`](https://github.com/sagi/intro_to_infosec/blob/master/lectures/lecture16.md) |
+| 24/03/2019 | [`Lecture 17`](https://github.com/sagi/intro_to_infosec/blob/master/lectures/lecture17.md) |
+| 27/03/2019 | [`Lecture 18`](https://github.com/sagi/intro_to_infosec/blob/master/lectures/lecture18.md) |
 
 ## License
 
